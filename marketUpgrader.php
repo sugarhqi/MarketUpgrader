@@ -10,6 +10,9 @@
  * Copyright (C) SugarCRM Inc. All rights reserved.
  */
 
+// Please ensure that you are executing this script as the web server user
+// or the web server user has the permissions to read/write the files created by this script
+
 /**
  * Exit script with error message
  * @param string $message
